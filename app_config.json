@@ -1,9 +1,9 @@
 {
   "status": "active",
   "kill_switch": false,
-  "min_allowed_version": 3,
-  "latest_version_code": 3,
-  "latest_version_name": "3.0",
-  "message": "9C Music v3.0 Ultra HD Active hai!",
+  "min_allowed_version": 4,
+  "latest_version_code": 4,
+  "latest_version_name": "4.0",
+  "message": "9C Music v4.0 Ultra HD Active hai!",
   "update_url": "https://github.com/mypclive09-pixel/sidlist"
 }
